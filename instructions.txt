@@ -1,0 +1,6 @@
+How to run:
+1. make sure that you have java installed, download the github project as a .zip and unzip it to a folder.  Navigate to that folder
+2. double click on the .bat file
+3. specify the y coordinate that you want the missile to go to
+4. click enter and watch the missile move according to the logic of the missile knows where it is video: https://www.youtube.com/watch?v=bZe5J8SVCYQ
+5. enjoy...
